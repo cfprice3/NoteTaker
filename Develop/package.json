@@ -12,6 +12,5 @@
   "dependencies": {
     "express": "^4.16.4",
     "path": "^0.12.7",
-    "uuid": "^7.0.3"
   }
 }
